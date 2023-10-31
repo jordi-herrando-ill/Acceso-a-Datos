@@ -1,0 +1,17 @@
+[{
+  "name": "Sidney Poitier",
+  "sex": "H",
+  "yearOfBirth": 1926,
+  "movies": [{
+    "title": "Lilies of the Field",
+    "year": 1963
+  }]
+}, {
+  "name": "Spencer Tracy",
+  "sex": "H",
+  "yearOfBirth": 1900,
+  "movies": [{
+    "title": "Captains Courageous",
+    "year": 1937
+  }]
+}]
